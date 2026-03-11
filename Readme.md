@@ -3,8 +3,6 @@
 # Colorful Reticles
 Change that boring red, reticle with new colorful ones!
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ArkadiaModding/Colorful-Reticles?style=flat-square&logo=github)
-
 🔧Made using: UABEANext
 
 ![Static Badge](https://img.shields.io/badge/License-blue)
